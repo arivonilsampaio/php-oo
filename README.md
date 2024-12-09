@@ -1,2 +1,2 @@
 # php-oo
- esturo php oriientação a objetos
+ esturo php orientação a objetos
