@@ -34,3 +34,4 @@ _PALAVRA_ =  ITALICO
 - [ ] Finalizar reunião com o cliente
 - [ ] Receber Pagamentos
 
+[Acesse meu GitHub](https://bauc.ag)
